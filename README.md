@@ -9,3 +9,5 @@ Then, from the SSH terminal, you can call `bundle install` to install Rails and 
 
 If that fails, try `rbenv rehash`, then try again.
 
+To start up the server, navigate to puzzles/ and run `rails server -b 0.0.0.0`.
+
